@@ -1,0 +1,24 @@
+{
+
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "assignment",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "assignment (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "assignment (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
